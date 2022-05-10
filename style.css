@@ -1,0 +1,58 @@
+
+body{
+    background-image: linear-gradient(115deg,rgba(255, 255, 128, 0.6),rgba(136, 136, 206, 0.5)),url(Paharpur_Buddhist_Monastery.jpg);
+    background-size: cover;
+    background-position: center;
+    width:100%;
+    height:100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;            
+}
+.astyle{
+    text-decoration: none;
+    color:#cc0066;
+}
+.fa-facebook{
+    text-decoration: none;
+    color: rgba(46, 6, 156, 0.822);
+}
+.fa-instagram-square{
+    text-decoration: none;
+    color: rgba(109, 19, 121, 0.822);
+}
+.fa-message-smile{
+    color:#ffe6b3
+}
+.astyle:hover{
+    text-decoration:underline;
+    color:cornsilk;
+}
+.members-color{
+    background-color: #ffa64d;
+}
+.alumni-color{
+    background-color: #ffe6b3;
+}
+.programmes-color{
+    background-color: #f7c3b1;
+}
+.div-mem{
+    width: 280px;
+}
+.color-nao{
+    color:#9B2335;
+}
+.color-nda{
+    color: #9B2335;
+}
+.color-shir{
+    color:#0033cc;
+}
+.a-footer{
+    text-decoration: none;
+    color:rgb(174, 174, 226);
+}
+.a-footer:hover{
+    color: greenyellow;
+    font-size: 20px;
+}
